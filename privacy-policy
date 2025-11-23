@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Studio Phoenix Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #0b0b0f;
+      color: #f5f5f7;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 3.5rem;
+    }
+    h1, h2 {
+      color: #ffb347;
+      margin-top: 1.8rem;
+      margin-bottom: 0.6rem;
+    }
+    h1 {
+      font-size: 2rem;
+      margin-top: 0;
+    }
+    h2 {
+      font-size: 1.3rem;
+    }
+    p {
+      margin: 0.4rem 0 0.9rem;
+    }
+    .meta {
+      font-size: 0.9rem;
+      color: #a8a8b3;
+      margin-bottom: 1.5rem;
+    }
+    a {
+      color: #8ecbff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    ul {
+      margin: 0.4rem 0 1rem 1.5rem;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Studio Phoenix Privacy Policy</h1>
+    <div class="meta">
+      Last updated: November 23, 2025
+    </div>
+
+    <p>
+      I keep my privacy practices simple. I do not collect personal information through this website, and I do not track or profile anyone who browses. Any personal data I receive comes from the platforms I use when someone makes a purchase or interacts with my products.
+    </p>
+
+    <h2>What information I receive</h2>
+    <p>
+      If you buy something through Gumroad, I receive the basic information Gumroad provides to creators. This may include:
+    </p>
+    <ul>
+      <li>your name</li>
+      <li>your email address</li>
+      <li>your billing country or region</li>
+      <li>the product you purchased</li>
+      <li>the amount paid</li>
+    </ul>
+    <p>
+      I use this information only to:
+    </p>
+    <ul>
+      <li>deliver your purchase</li>
+      <li>handle customer support if something goes wrong</li>
+      <li>understand general trends in my sales</li>
+    </ul>
+    <p>
+      Emails provided through Gumroad are only used to deliver digital products or to contact you about your purchase. I do not sell or share your personal information with anyone.
+    </p>
+
+    <h2>Analytics and business insights</h2>
+    <p>
+      For analytics, I look at non personal information such as:
+    </p>
+    <ul>
+      <li>which products were viewed or purchased</li>
+      <li>aggregated traffic numbers</li>
+      <li>impressions and engagement from platforms like Pinterest, Instagram, or Facebook</li>
+    </ul>
+    <p>
+      When I analyze my business performance, I only work with anonymized or non identifiable data. This includes things like product IDs, timestamps, and general geographic areas such as country or state. None of this data can identify an individual person.
+    </p>
+
+    <h2>How your data is stored</h2>
+    <p>
+      Any purchase information I receive from Gumroad is stored securely and used only for the purposes above. I may keep backups of this data so that I do not lose sales records, but these backups are kept privately and safely.
+    </p>
+
+    <h2>Third party services</h2>
+    <p>
+      I use third party platforms such as:
+    </p>
+    <ul>
+      <li>Gumroad for purchases</li>
+      <li>Pinterest, Instagram, and Facebook for social media and promotion</li>
+    </ul>
+    <p>
+      These platforms collect their own data independently. Their use of your information is governed by their own privacy policies. I do not control how those platforms collect or handle data on their side.
+    </p>
+
+    <h2>Your choices</h2>
+    <p>
+      If you want to manage or delete your data on Gumroad, Pinterest, Instagram, Facebook, or any other platform, please use the privacy and account settings on that platform. They are the primary controllers of your data there.
+    </p>
+
+    <h2>Contact</h2>
+    <p>
+      If you have questions about this policy or how your data is used, you can reach me at:<br />
+      <strong>tristan.storm.phoenix@studiophoenix.ink</strong>
+    </p>
+  </div>
+</body>
+</html>
